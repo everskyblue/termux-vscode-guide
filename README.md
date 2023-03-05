@@ -1,4 +1,4 @@
-﻿# Termux VSCode Guide
+# Termux VSCode Guide
 
 guide to install vscode in termux
 
@@ -27,8 +27,8 @@ For that we have to rebuild the application but first we are going to install an
 
 we will install
 
-  -git
-  -zsh
+  - git
+  - zsh
   - oh-my-zsh
 
 using the command
