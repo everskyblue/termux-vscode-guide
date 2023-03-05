@@ -63,7 +63,7 @@ you just have to add the location path where the binaries are
 
 save the file and in the terminal run another command
 
-     $source.zshrc
+     $ source .zshrc
 
 It will make the changes in the terminal or if it does not finish the process and go back to termux and you can use node version 16 and npm version 8
 
